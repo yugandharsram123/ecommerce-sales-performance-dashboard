@@ -1,0 +1,17 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded and generated data
+data/raw/*
+!data/raw/README.md
+data/processed/*
+!data/processed/README.md
